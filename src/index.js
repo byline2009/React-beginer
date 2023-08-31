@@ -10,8 +10,8 @@ root.render(
   // <React.StrictMode>
   //   <App />
   // </React.StrictMode>
-  <AppClass />
-  // <AppFunction />
+  // <AppClass />
+  <AppFunction />
 );
 
 // If you want to start measuring performance in your app, pass a function
